@@ -7,5 +7,5 @@ import (
 func main() {
 	// day1.Day1b()
 
-	day2.Day2a()
+	day2.Day2b()
 }
